@@ -9,6 +9,7 @@ To let the year of gnu/Linux distro on desktop (before desktop disappear!) distr
 - if you change user group/permission, you have to logout and login in
 - we need an "app firewall" similar to Android, in particular "Privacy Guard". SELinux is too complex, and Flatpack/Snappy does not give an easy way to check/change app permission
 - for some reason by default many distro let user look at other user home folder. WRONG.
+- NTFS somethimes get mounted RO (especially if dirty bit is set is a pain), or without full permission on them, making the casual user wondering why its .desktop does not work
 
 # Wallet by default
 
